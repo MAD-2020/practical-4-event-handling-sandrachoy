@@ -4,4 +4,92 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Main2Activity"/>
+    tools:context=".Main2Activity">
+
+    <Button
+        android:id="@+id/buttonAdv6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O"
+        android:translationX="245dp"
+        android:translationY="306dp"
+        />
+
+    <Button
+        android:id="@+id/buttonAdv5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O"
+        android:translationX="160dp"
+        android:translationY="306dp" />
+
+    <Button
+        android:id="@+id/buttonAdv4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O"
+
+        android:translationX="72dp"
+        android:translationY="306dp"
+         />
+
+    <Button
+        android:id="@+id/buttonAdv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O"
+        android:translationX="75dp"
+        android:translationY="210dp" />
+
+    <TextView
+        android:id="@+id/advScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.787" />
+
+    <Button
+        android:id="@+id/buttonAdv3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O"
+        android:translationX="245dp"
+        android:translationY="210dp" />
+
+    <Button
+        android:id="@+id/buttonAdv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O"
+        android:translationX="160dp"
+        android:translationY="210dp" />
+
+    <Button
+        android:id="@+id/buttonAdv7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O"
+        android:translationX="75dp"
+        android:translationY="393dp" />
+
+    <Button
+        android:id="@+id/buttonAdv8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O"
+        android:translationX="163dp"
+        android:translationY="393dp" />
+
+    <Button
+        android:id="@+id/buttonAdv9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O"
+        android:translationX="248dp"
+        android:translationY="393dp" />
+</android.support.constraint.ConstraintLayout>
