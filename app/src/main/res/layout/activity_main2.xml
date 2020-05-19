@@ -38,8 +38,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="O"
-        android:translationX="75dp"
-        android:translationY="210dp" />
+        android:translationX="72dp"
+        android:translationY="210dp"
+        />
 
     <TextView
         android:id="@+id/advScore"

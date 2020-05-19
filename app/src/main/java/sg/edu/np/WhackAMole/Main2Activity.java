@@ -126,6 +126,7 @@ public class Main2Activity extends AppCompatActivity {
             });
             buttonList.add(buttonListener);
         }
+        readyTimer();
     }
     @Override
     protected void onStart(){
